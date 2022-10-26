@@ -1,0 +1,26 @@
+
+
+head{
+    border: 2px solid blue;
+    margin-left: 100px;
+   
+}
+
+.photo-1{
+    border: 2px solid blue;
+    width: 400px;
+    height: 112px;
+    margin-left:14px ;
+    margin-top: 22px;
+    margin-left: 42%;
+}
+
+h3{
+    width: 700px;
+    border: 1px solid red;
+    width: 10% ;
+    height: auto;
+    margin-left: 47%; 
+    background: #B2B2D2;
+}
+
